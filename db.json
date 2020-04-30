@@ -1,98 +1,24 @@
 {
-  "googlevideos": [
-    {
-      "category": "JOS",
-      "videos": [
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "3:13",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-          "title": "Instant Upload",
-          "studio": "JOS"
-        },
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "2:54",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-          "title": "New Dad",
-          "studio": "JOS"
-        },
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "2:47",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Say%20more%20with%20Hangouts/bg.jpg",
-          "title": "Say more with Hangouts",
-          "studio": "JOS"
-        }
-      ]
-    },
-    {
-      "category": "Developer",
-      "videos": [
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "3:32",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-          "title": "Instant Upload",
-          "studio": "JOS"
-        },
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "4:56",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-          "title": "New Dad",
-          "studio": "JOS"
-        }
+  "googlevideos": [{
+    "category": "Pdf Files",
+    "videos": [{
+      "description": "http://www.pdf995.com/samples/pdf.pdf",
+      "sources": ["http://www.pdf995.com/samples/pdf.pdf"],
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "title": "Instant Upload",
+      "studio": "Google+"
+    }]
+  }, {
+    "category": "Epub Files",
+    "videos": [{
+        "description": "http://www.feedbooks.com/book/3471.epub",
+        "sources": ["http://www.feedbooks.com/book/3471.epub"],
+        "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/card.jpg",
+        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
+        "title": "20ft Search",
+        "studio": "Google Demo Slam"
+        }]
+  }
+]
 
-      ]
-    },
- {
-      "category": "Epub books",
-      "videos": [
-        {
-          "description": "http://www.pdf995.com/samples/pdf.pdf",
-          "duration": "3:32",
-          "sources": [
-            "http://www.pdf995.com/samples/pdf.pdf"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-          "title": "Instant Upload",
-          "studio": "JOS"
-        },
-        {
-          "description": "http://www.feedbooks.com/book/3471.epub",
-          "duration": "4:56",
-          "sources": [
-            "http://www.feedbooks.com/book/3471.epub"
-          ],
-          "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
-          "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-          "title": "New Dad",
-          "studio": "JOS"
-        }
-
-      ]
-    }
-  ]
 }
