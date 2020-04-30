@@ -3,6 +3,7 @@
     "category": "Pdf Files",
     "videos": [{
       "description": "http://www.pdf995.com/samples/pdf.pdf",
+"duration":"3:13",
       "sources": ["http://www.pdf995.com/samples/pdf.pdf"],
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
       "title": "Instant Upload",
@@ -12,6 +13,7 @@
     "category": "Epub Files",
     "videos": [{
         "description": "http://www.feedbooks.com/book/3471.epub",
+"duration":"3:13",
         "sources": ["http://www.feedbooks.com/book/3471.epub"],
         "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/card.jpg",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
